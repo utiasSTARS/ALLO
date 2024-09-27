@@ -1,0 +1,7 @@
+**/__pycache__
+cad_models
+misc
+renders
+**/*.zip
+**/*.tar.xz
+notes.txt

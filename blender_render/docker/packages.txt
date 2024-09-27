@@ -1,0 +1,13 @@
+build-essential
+libpython3-dev
+python3-dev
+python3-pip
+python3-wheel
+python3-tk
+zlib1g-dev
+libxmu-dev
+libxi-dev
+libxxf86vm-dev
+libfontconfig1
+libxrender1
+libgl1-mesa-dev

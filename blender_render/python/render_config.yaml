@@ -1,0 +1,37 @@
+### config parameters for render_binary.py script
+end_day: 3
+day_interval: 1
+start_day: 1
+sun_strength:
+  - 1
+  - 5
+  - 10
+depths:
+  - 0
+  - -1
+  - 1
+scales:
+  - 0.3
+  - 0.5
+  - 0.7
+colours:
+  - red
+  - blue
+  - yellow
+cams:
+  start: 1
+  end: 3
+anomalies:
+  - blanket
+  - blanket2
+  - blanket3
+  - drill
+  - ingenuity
+  - cable
+  - cable2
+  - cable3
+min_pixel: 2000
+ephemeris_path: "/home/sl-stars/Blender-Render/render_data_csv"
+cad_models_path: "/home/sl-stars/Blender-Render/cad_models/"
+anomalies_path: "/home/sl-stars/Blender-Render/cad_models/anomalies"
+output_dir: "/home/sl-stars/Blender-Render/renders"
