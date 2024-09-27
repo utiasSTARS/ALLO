@@ -1,12 +1,11 @@
 # ALLO
 **ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit** 
 
-Selina Leveugle, Chang Won Lee, Svetlana Stolpner, Chris Langley,
-Paul Grouchy, Steven Waslander, and Jonathan Kelly
+Selina Leveugle, Chang Won Lee, Svetlana Stolpner, Chris Langley,Paul Grouchy, Steven Waslander, and Jonathan Kelly
 
 ## Introduction
-This repository provides the data generation pipeline to generate and expand the ALLO dataset and run the Anomalib benchmark on the ALLO dataset. 
-The ALLO dataset and all supporting Blender files are available for download.
+This repository provides the data generation pipeline to generate and expand the ALLO dataset. 
+The ALLO dataset and all supporting Blender files are available for download [here](http://gofile.me/5fLQD/mL39QLs3n), and the Anomalib benchmark code will be released soon.
 
 
 ## Blender Render
@@ -48,7 +47,7 @@ To install on Ubuntu >=20.04 follow the steps outlined below. It is important to
 git clone https://github.com/utiasSTARS/ALLO.git
 ```
 
-4. download all Blender files from. Required files are the ephemeris_model.blend, the CAD models folder with models of the Moon, Earth, and Sun, and the folder with anomaly CAD models
+4. Download all required Blender files from [here](http://gofile.me/5fLQD/mL39QLs3n). Required files are the ephemeris_model.blend, the CAD models folder with models of the Moon, Earth, and Sun, and the folder with anomaly CAD models
 
 
 ### Usage
