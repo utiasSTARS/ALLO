@@ -1,11 +1,12 @@
 # ALLO
 **ALLO: A Photorealistic Dataset and Data Generation Pipeline for Anomaly Detection During Robotic Proximity Operations in Lunar Orbit** 
 
-Selina Leveugle, Chang Won Lee, Svetlana Stolpner, Chris Langley,Paul Grouchy, Steven Waslander, and Jonathan Kelly
+Selina Leveugle, Chang Won Lee, Svetlana Stolpner, Chris Langley, Paul Grouchy, Steven Waslander, and Jonathan Kelly
 
 ## Introduction
 This repository provides the data generation pipeline to generate and expand the ALLO dataset. 
-The ALLO dataset and all supporting Blender files are available for download [here](http://gofile.me/5fLQD/mL39QLs3n), and the Anomalib benchmark code will be released soon.
+The ALLO dataset and all supporting Blender files are available for download [here](http://gofile.me/5fLQD/mL39QLs3n), and the Anomalib benchmark code will be released upon final acceptance.
+The preprint is available at [https://arxiv.org/abs/2409.20435](https://arxiv.org/abs/2409.20435)
 
 
 ## Blender Render
