@@ -5,7 +5,7 @@ Selina Leveugle, Chang Won Lee, Svetlana Stolpner, Chris Langley, Paul Grouchy, 
 
 ## Introduction
 This repository provides the data generation pipeline to generate and expand the ALLO dataset. 
-The ALLO dataset and all supporting Blender files are available for download [here](http://gofile.me/5fLQD/eIgHRurJm), and the Anomalib benchmark code will be released upon final acceptance.
+The ALLO dataset and all supporting Blender files are available for download [here](https://trail-super-nas.synology.me:61536/fsdownload/Wy3jhzOeH/ALLO), and the Anomalib benchmark code will be released upon final acceptance.
 The preprint is available at [https://arxiv.org/abs/2409.20435](https://arxiv.org/abs/2409.20435)
 
 
