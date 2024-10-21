@@ -31,7 +31,7 @@ anomalies:
   - cable2
   - cable3
 min_pixel: 2000
-ephemeris_path: "/home/sl-stars/Blender-Render/render_data_csv"
-cad_models_path: "/home/sl-stars/Blender-Render/cad_models/"
-anomalies_path: "/home/sl-stars/Blender-Render/cad_models/anomalies"
-output_dir: "/home/sl-stars/Blender-Render/renders"
+ephemeris_path: "/home/blender_render/render_data_csv"
+cad_models_path: "/home/blender_render/cad_models/"
+anomalies_path: "/home/blender_render/cad_models/anomalies"
+output_dir: "/home/blender_render/renders"
