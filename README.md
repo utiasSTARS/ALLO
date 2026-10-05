@@ -48,7 +48,7 @@ To install on Ubuntu >=20.04 follow the steps outlined below. It is important to
 git clone https://github.com/utiasSTARS/ALLO.git
 ```
 
-4. Download all required Blender files from [here](http://gofile.me/5fLQD/mL39QLs3n). Required files are the ephemeris_model.blend, the CAD models folder with models of the Moon, Earth, and Sun, and the folder with anomaly CAD models
+4. Download all required Blender files from [here](https://huggingface.co/datasets/trailab/ALLO/tree/main/blender_models). Required files are the ephemeris_model.blend, the CAD models folder with models of the Moon, Earth, and Sun, and the folder with anomaly CAD models
 
 
 ### Usage
